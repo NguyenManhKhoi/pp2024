@@ -1,4 +1,4 @@
-USTH ICT 2024 Advanced Programming with Python
+USTH CyberSec 2024 Advanced Programming with Python
 =====================================================
 
 Students are expected to:
@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: Nguyen Manh Khoi 
+* Student ID: 22BI13219
 
